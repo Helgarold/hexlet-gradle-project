@@ -22,3 +22,9 @@ Thumbs.db
 
 # Output directory
 out/
+
+# Exclude other project files
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
