@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SomeClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-30T10:50:31" hostname="pakk-Lenovo-B560" time="0.054">
+  <properties/>
+  <testcase name="testSum()" classname="SomeClassTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
